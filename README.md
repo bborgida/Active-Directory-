@@ -1,5 +1,5 @@
 # Active-Directory-
-I set up an Active Directory system on a VM to demonstrate setting up a domain, creating and managing users all in a simulated network.
+I Deployed and managed an Active Directory domain environment to centralize user authentication, client machine administration, and security policy enforcement across networked systems.
 
 # TECH USED
     - Microsoft azure  
@@ -23,5 +23,8 @@ STEPS
 <img width="1512" height="982" alt="Screenshot 2026-05-29 at 3 19 25 PM" src="https://github.com/user-attachments/assets/1f766c5c-575e-416f-837b-1f1a03bfc9da" />
 6. I logged into the new VM and added it to the domain I created and gave domain users permission to remote connect to the client with the users and admins I created in step 4.<img width="1512" height="982" alt="Screenshot 2026-05-29 at 3 27 37 PM" src="https://github.com/user-attachments/assets/9c46175d-1bb9-4c82-82bf-9e03f997bcf9" />
 <img width="1512" height="982" alt="Screenshot 2026-05-29 at 3 27 23 PM" src="https://github.com/user-attachments/assets/fcb01200-4600-482e-8585-8f1652fa1981" />
+
+
+
 7. Once everything was created and set up, I went ahead and tested if it worked by logging in to the client VM with the domain user instead of the VM user and pass to make sure it was properly connected.  <img width="1512" height="982" alt="Screenshot 2026-05-29 at 3 36 32 PM" src="https://github.com/user-attachments/assets/8091db8b-bd51-4f4f-ba02-fe5029aad81d" />
 
