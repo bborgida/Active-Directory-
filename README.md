@@ -1,16 +1,19 @@
 # Active-Directory-
-I Deployed and managed an Active Directory domain environment to centralize user authentication, client machine administration, and security policy enforcement across networked systems.
+This Walkthrough shows how I Deployed and managed an Active Directory domain environment to centralize user authentication, client machine administration, and security policy enforcement across networked systems.
 
-# TECH USED
-    - Microsoft azure  
-    - Remote desktop
-    - Active Directory Domain Services
+<h2>Environments and Technologies Used</h2>
 
-# OPERATING SYSTEMS USED
-    - Windows 10 
-    - Windows server 2022
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Active Directory Domain Services
+- PowerShell
 
+<h2>Operating Systems Used </h2>
 
+- Windows Server 2022
+- Windows 10 (21H2)
+
+  
 STEPS
   1.  The first thing I did was create a Virtual Machine running Windows server 2022<img width="1512" height="982" alt="Screenshot 2026-05-29 at 2 38 33 PM" src="https://github.com/user-attachments/assets/4938268e-4695-46cc-bd1b-66f9ebe0802b" />
   2. On the server manager,I installed the windows active directory domain services<img width="1512" height="982" alt="Screenshot 2026-05-29 at 2 57 16 PM" src="https://github.com/user-attachments/assets/3c47d7b2-973c-4d01-a8cf-9c82612daa38" />
